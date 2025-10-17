@@ -1,3 +1,5 @@
+=== Library Management System ===
+
 A simple functional Library Management System made up with C-language.
 
 This project includes Pseudocode, Flowchart and C-Language. 
